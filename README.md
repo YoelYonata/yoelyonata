@@ -11,4 +11,4 @@ I'm Yoel a fourth year 👓 Engineering science student at Simon Fraser Universi
 - Computational Vision (next semester)
 
 # 📞 Contact Me
-[LinkedIn](https://www.linkedin.com/in/yoel-yonata-5a7286182/) | [Website](https://yoelyonata.github.io/) | [Email] (mailto:yyonata@sfu.ca)
+[LinkedIn](https://www.linkedin.com/in/yoel-yonata-5a7286182/) | [Website](https://yoelyonata.github.io/)
