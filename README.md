@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I'm Yoel a fourth year 👓 Engineering science student at Simon Fraser University. I have previously worked at Netgear as an intern as a part of my co-op program. I am currently searching for another coop for the upcoming semester.
+I'm Yoel a fourth year 👓 Engineering science student at Simon Fraser University. I have previously worked at Netgear as an intern as a part of my co-op program. I am currently searching for another co-op for the upcoming semester.
 
 ### 💻 What I've been doing
 - Just completed courses on: Operating Systems, Web-based information systems and Artificial Intelligence
